@@ -1,0 +1,3 @@
+npx cap sync
+npx cap open android   # opens Android Studio
+npx cap open ios       # opens Xcode
